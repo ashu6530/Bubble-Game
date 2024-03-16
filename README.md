@@ -43,7 +43,7 @@ Adding levels with increasing difficulty.
 Incorporating sound effects or music for a more immersive experience.
 Implementing a leaderboard to track high scores.
 Enhancing the game's graphics and animations.
-<h2Conclusion</h2>
+<h2>Conclusion</h2>
 The Bubble Game Project is a fun and interactive web application that demonstrates your JavaScript programming skills. It's a great example of how coding can be used to create enjoyable user experiences.
 
 Feel free to explore the code, modify it, or use it as a learning resource for your web development journey. Happy popping!
